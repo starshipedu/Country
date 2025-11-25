@@ -1,1 +1,48 @@
-404: Not Found
+[
+  { "name": "Adelphi University", "image": "http://tiny.cc/SS-Adelphi", "link": "https://www.adelphi.edu/"},
+  { "name": "Adler University", "image": "http://tiny.cc/SS-Adler", "link": "https://www.adler.edu/"},
+  { "name": "American National University", "image": "http://tiny.cc/SS-ANUschool", "link": "https://an.edu/"},
+  { "name": "Arizona State University", "image": "http://tiny.cc/SS-ASUschool", "link": "https://www.asu.edu/"},
+  { "name": "Arkansas State University", "image": "http://tiny.cc/arkansasschool", "link": "https://www.astate.edu/"},
+  { "name": "American University", "image": "http://tiny.cc/SS-AUschool", "link": "https://www.american.edu/"},
+  { "name": "Anderson University", "image": "http://tiny.cc/SS-Andersonschool", "link": "https://andersonuniversity.edu/"},
+  { "name": "Auburn University", "image": "http://tiny.cc/g3rg001", "link": "https://www.auburn.edu/"},
+  { "name": "Ashland University", "image": "http://tiny.cc/SS-Ashlandschool", "link": "https://www.ashland.edu/"},
+  { "name": "Augustana University", "image": "http://tiny.cc/87rg001", "link": "https://www.augie.edu/"},
+  
+  { "name": "Alma College", "image": "http://tiny.cc/SS-Alma", "link": "https://www.alma.edu/"},
+  { "name": "American Collegiate", "image": "http://tiny.cc/SS-Collegiate", "link": "https://auaccess.american.edu/"},
+  { "name": "Admiral Farragut Academy", "image": "http://tiny.cc/SS-Farragut", "link": "https://farragut.org/"},
+  { "name": "Academy of the Holy Family", "image": "http://tiny.cc/SS-Holy-Family", "link": "https://ahfbaltic.com/"},
+  { "name": "American Hebrew Academy (AHA)", "image": "http://tiny.cc/SS-AHA", "link": "https://www.americanhebrewacademy.org/"},
+  { "name": "Allendale Columbia School", "image": "http://tiny.cc/SS-Allandele", "link": "https://www.allendalecolumbia.org/"},
+  { "name": "American Education Pathways", "image": "http://tiny.cc/SS-educationpathway", "link": "http://www.american-edu.us/"},
+  { "name": "Academy Of Art University", "image": "http://tiny.cc/SS-AOART", "link": "https://www.academyart.edu/"},
+  { "name": "American Heritage School", "image": "http://tiny.cc/SS-Ahschool", "link": "https://www.ahschool.com/"},
+  { "name": "American International College", "image": "http://tiny.cc/SS-AICschool", "link": "https://www.aic.edu/"},
+  
+  { "name": "American Musical and Dramatic Academy AMDA", "image": "http://tiny.cc/SS-AMDAschool", "link": "https://www.amda.edu/"},
+  { "name": "Amerigo Education", "image": "http://tiny.cc/SS-amerigoschool", "link": "https://www.amerigoeducation.com/"},
+  { "name": "Andrews Osborne Academy", "image": "http://tiny.cc/SS-OsborneAcademy", "link": "https://www.andrewsosborne.org/"},
+  { "name": "Annie Wright Schools", "image": "http://tiny.cc/SS-AWschool", "link": "https://www.aw.org/"},
+  { "name": "Archbishop Riordan High School", "image": "http://tiny.cc/SS-Archbishopschool", "link": "https://www.riordanhs.org/"},
+  { "name": "Army and Navy Academy", "image": "http://tiny.cc/SS-Armyschool", "link": "https://armyandnavyacademy.org/"},
+  { "name": "Art Center College of Design", "image": "http://tiny.cc/SS-Designschool", "link": "https://www.artcenter.edu/"},
+  { "name": "Ashley Hall", "image": "http://tiny.cc/SS-Ashleyhallschool", "link": "https://www.ashleyhall.org/"},
+  { "name": "ASU Prep Digital", "image": "http://tiny.cc/v0rg001", "link": "https://www.asuprepdigital.org/"},
+  { "name": "Auburn Montgomery University", "image": "http://tiny.cc/u1rg001", "link": "https://www.aum.edu/"},
+
+  { "name": "Austin College", "image": "http://tiny.cc/SS-Austinschool", "link": "https://www.austincollege.edu/"},
+  { "name": "Bakersfield Christian High School", "image": "http://tiny.cc/5c0h001", "link": "https://www.bakersfieldchristian.com/"},
+  { "name": "Ball State University", "image": "http://tiny.cc/oc0h001", "link": "https://www.bsu.edu/"},
+  { "name": "Barton College", "image": "http://tiny.cc/1d0h001", "link": "https://www.barton.edu/"},
+  { "name": "Bay Atlantic University", "image": "http://tiny.cc/gd0h001", "link": "https://bau.edu/"},
+  { "name": "Bay State College", "image": "http://tiny.cc/2e0h001", "link": "https://www.baystate.edu/"},
+  { "name": "Baylor University", "image": "http://tiny.cc/se0h001", "link": "https://www.baylor.edu/"},
+  { "name": "Belleview Christian Preparatory School", "image": "http://tiny.cc/af0h001", "link": "https://belleviewchristian.com/"},
+  { "name": "Bellevue College", "image": "http://tiny.cc/d01h001", "link": "https://www.bellevuecollege.edu/"},
+  { "name": "Belmont University", "image": "http://tiny.cc/8j5h001", "link": "https://www.belmont.edu/"}
+
+
+
+]
