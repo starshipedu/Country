@@ -1,1 +1,42 @@
-404: Not Found
+[
+  { "name": "Univerisiti Tun Abdul Razak - UniRazak", "image": "http://tiny.cc/SS-Unirazak", "link": "https://unirazak.edu.my/"},
+  { "name": "Universiti Kuala Lumpur (UniKL)", "image": "http://tiny.cc/SS-UNIKL", "link": "https://www.unikl.edu.my/"},
+  { "name": "Universiti Malaya - UM", "image": "http://tiny.cc/SS-UM", "link": "https://www.um.edu.my/"},
+  { "name": "Universiti Putra Malaysia - UPM", "image": "http://tiny.cc/SS-UPM", "link": "https://upm.edu.my/"},
+  { "name": "Universiti Teknologi MARA (UiTM)", "image": "http://tiny.cc/SS-UITM", "link": "https://uitm.edu.my/index.php/en/"},
+  { "name": "University of CyberJaya Malaysia", "image": "http://tiny.cc/SS-Cyberjaya", "link": "https://cyberjaya.edu.my/"},
+  { "name": "Tunku Abdul Rahman University College (TAR UC)", "image": "http://tiny.cc/SS-TARC", "link": "https://tarc.edu.my/"},
+  { "name": "UCSI University", "image": "http://tiny.cc/SS-UCSI", "link": "https://www.ucsiuniversity.edu.my/"},
+  { "name": "International Islamic University Malaysia", "image": "http://tiny.cc/SS-IIUM", "link": "https://www.iium.edu.my/v2/"},
+  { "name": "INTI College", "image": "http://tiny.cc/SS-inticollege", "link": "https://newinti.edu.my/"},
+  { "name": "Asia Pacific University of Technology & Innovation", "image": "http://tiny.cc/SS-APUmalaysia", "link": "https://www.apu.edu.my/"},
+  { "name": "City University Malaysia", "image": "http://tiny.cc/SS-cityuniversity", "link": "https://city.edu.my/"},
+  { "name": "Curtin University Malaysia", "image": "http://tiny.cc/SS-curtinmalaysia", "link": "https://curtin.edu.my/"},
+  { "name": "Heriot-Watt University Malaysia", "image": "http://tiny.cc/SS-HWMalaysia", "link": "https://www.hw.ac.uk/malaysia/"},
+  { "name": "INTI International University", "image": "http://tiny.cc/SS-Intiuniversity", "link": "https://newinti.edu.my/"},
+  { "name": "Le Cordon Bleu Malaysia", "image": "http://tiny.cc/SS-LCBmalaysia", "link": "https://www.cordonbleu.edu/malaysia/home/en"},
+  { "name": "Limkokwing University of Creative Technology", "image": "http://tiny.cc/SS-limkokwing", "link": "https://www.limkokwing.net/"},
+  { "name": "Mahsa University", "image": "http://tiny.cc/SS-Mahsa", "link": "https://mahsa.edu.my/"},
+  { "name": "Management And Science University MSUy", "image": "http://tiny.cc/SS-MSU", "link": "https://www.msu.edu.my/"},
+  { "name": "Monash University Malaysia", "image": "http://tiny.cc/SS-Monashmalaysia", "link": "https://www.monash.edu.my/"},
+  { "name": "Multimedia University", "image": "http://tiny.cc/SS-MMU", "link": "https://www.mmu.edu.my/"},
+  { "name": "Raffles American School", "image": "http://tiny.cc/SS-raflesmalaysia", "link": "https://raffles-american-school.edu.my/"},
+  { "name": "Raffles University Malaysia", "image": "http://tiny.cc/SS-Raffless", "link": "https://raffles-university.edu.my/"},
+  { "name": "SEGi College", "image": "http://tiny.cc/SS-segicollege", "link": "https://www.segi.edu.my/"},
+  { "name": "SEGi University", "image": "http://tiny.cc/ss-segiuniversity", "link": "https://www.segi.edu.my/"},
+  { "name": "Shattuck-St. Mary's Forest City International School", "image": "http://tiny.cc/ss-Shattuck", "link": "https://www.cats-fc.org/"},
+  { "name": "Sunway University", "image": "http://tiny.cc/SS-Sunway", "link": "https://sunwayuniversity.edu.my/"},
+  { "name": "Swinburne University of Technology Sarawak (SUTS)", "image": "http://tiny.cc/ss-swinburnemalay", "link": "https://www.swinburne.edu.my/"},
+  { "name": "Taylor`s University Malaysia", "image": "http://tiny.cc/SS-taylormalay", "link": "https://university.taylors.edu.my/en.html"},
+  { "name": "University of Nottingham Malaysia", "image": "http://tiny.cc/SS_Nottinghammalay", "link": "https://www.nottingham.edu.my/index.aspx"},
+  { "name": "University of Southampton Malaysia", "image": "http://tiny.cc/SS-Southamptonmy", "link": "https://www.southampton.ac.uk/my/index.page"},
+  { "name": "University of Wollongong Malaysia", "image": "http://tiny.cc/SS-UOWmy", "link": "https://www.uow.edu.my/"}
+
+
+
+
+
+
+
+
+]
