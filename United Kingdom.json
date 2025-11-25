@@ -1,1 +1,16 @@
-404: Not Found
+[
+  { "name": "Abbey College", "image": "http://tiny.cc/ss-AbbeyCollege", "link": "https://abbeycollege.co.uk/"},
+  { "name": "Abbotsholme School", "image": "http://tiny.cc/ss-AbbotsholmeSchool", "link": "https://www.abbotsholme.co.uk/"},
+  { "name": "Abertay University", "image": "http://tiny.cc/SS-Abertayuniversity", "link": "https://www.abertay.ac.uk/"},
+  { "name": "Aberystwyth University", "image": "http://tiny.cc/ss-Aberystwythuniversity", "link": "https://www.aber.ac.uk/"},
+  { "name": "Aldenham School", "image": "http://tiny.cc/ss-AldenhamSchool", "link": "https://www.aldenham.com/"},
+  { "name": "Ampleforth College", "image": "http://tiny.cc/ss-AmpleforthCollege", "link": "https://www.ampleforthcollege.org.uk/"},
+  { "name": "Anglia Ruskin University", "image": "http://tiny.cc/ss-AngliaRuskin", "link": "https://www.aru.ac.uk/"},
+  { "name": "(ARU) College", "image": "http://tiny.cc/SS-ARUcollege", "link": "https://www.aru.ac.uk/student-life/life-on-campus/aru-college"},
+  { "name": "Arden University", "image": "http://tiny.cc/SS-Ardenuniversity", "link": "https://arden.ac.uk/"},
+  { "name": "Arts University Bournemouth", "image": "http://tiny.cc/ss-ArtsBournemouth", "link": "https://aub.ac.uk/" }
+
+
+
+
+]
