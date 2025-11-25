@@ -1,1 +1,17 @@
-404: Not Found
+[
+  { "name": "Chulalongkorn University", "image": "http://tiny.cc/SS-Chula", "link": "https://www.chula.ac.th/en/"},
+  { "name": "Pathumthani University", "image": "http://tiny.cc/SS-Pathumthani", "link": "https://www.facebook.com/people/Study-in-PTU/61559301723979/"},
+  { "name": "Mahidol University", "image": "http://tiny.cc/SS-Mahidol", "link": "https://mahidol.ac.th/"},
+  { "name": "Chiang Mai University", "image": "http://tiny.cc/SS-Chiangmai", "link": "https://www.cmu.ac.th/en/home"},
+  { "name": "Thammasat University", "image": "http://tiny.cc/SS-Thammasat", "link": "https://tu.ac.th/en"},
+  { "name": "Kasetsart University", "image": "http://tiny.cc/SS-Kasetsart", "link": "https://www.ku.ac.th/en/community-home"},
+  { "name": "Khon Kaen University", "image": "http://tiny.cc/SS-Khonkaen", "link": "https://eng.kku.ac.th/"},
+  { "name": "Bangkok University", "image": "http://tiny.cc/SS-Bangkokuni", "link": "https://www.bu.ac.th/en"},
+  { "name": "Burapha University", "image": "http://tiny.cc/SS-Burapha", "link": "https://www.buu.ac.th/en/"},
+  { "name": "Prince of Songkla University", "image": "http://tiny.cc/SS-Songkla", "link": "https://www.psu.ac.th/en/?page=home"}
+
+
+
+
+
+]
