@@ -1,1 +1,54 @@
-404: Not Found
+[
+
+  { "name": "Peking University", "image": "http://tiny.cc/hyur001", "location": "Beijing", "campuses": ["Yànyuán", "Changping", "Shenzhen", "Shenzhen"], "link": "https://english.pku.edu.cn/", "featured": true, "featuredText": "14"},
+  { "name": "Tsinghua University", "image": "http://tiny.cc/qyur001", "location": "Beijing", "campuses": ["Shenzhen", "Jiaxing"], "link": "https://www.tsinghua.edu.cn/en/", "featured": true, "featuredText": "17"},
+  { "name": "Fudan University", "image": "http://tiny.cc/2zur001", "location": "Shanghai", "campuses": ["Handan", "Fenglin", "Zhangjiang", "Zhangjiang"], "link": "https://www.fudan.edu.cn/en/", "featured": true, "featuredText": "30"},
+  { "name": "Shanghai Jiao Tong University", "image": "http://tiny.cc/szur001", "location": "Shanghai", "campuses": ["Minhang", "Xuhui", "Huangpu", "Changning", "Qibao", "Chongming"], "link": "https://www.fudan.edu.cn/en/", "featured": true, "featuredText": "47"},
+  { "name": "Zhejiang University", "image": "http://tiny.cc/xzur001", "location": "Zhejiang", "campuses": ["Yuquan", "Xixi", "Huajiachi", "Zhijiang", "Zhoushan", "Haining", "Ningbo"], "link": "https://www.zju.edu.cn/english/", "featured": true, "featuredText": "49"},
+  { "name": "Nanjing University", "image": "http://tiny.cc/80vr001", "location": "Jiangsu", "campuses": ["Gulou", "Xianlin", "Pukou", "Suzhou"], "link": "https://www.nju.edu.cn/en/", "featured": true, "featuredText": "103"},
+  { "name": "University of Science and Technology of China", "image": "http://tiny.cc/o0vr001", "location": "Anhui", "campuses": ["Hefei", "Suzhou"], "link": "https://en.ustc.edu.cn/", "featured": true, "featuredText": "132"},
+  { "name": "Tongji University", "image": "http://tiny.cc/fcwr001", "location": "Shanghai", "campuses": ["Siping", "Jiading", "Huxi", "Hubei", "Lingang", "Zhejiang"], "link": "https://en.tongji.edu.cn/p/", "featured": true, "featuredText": "177"},
+  { "name": "Wuhan University", "image": "http://tiny.cc/pcwr001", "location": "Hubei", "campuses": ["Qingshan", "Huangjiahu"], "link": "httpshttps://en.whu.edu.cn/", "featured": true, "featuredText": "186"},
+  { "name": "Beijing Normal University (BNU)", "image": "http://tiny.cc/3dwr001", "location": "Beijing", "campuses": ["Haidian", "Changping", "Xicheng", "Zhuhai"], "link": "https://english.bnu.edu.cn/", "featured": true, "featuredText": "247"},
+  { "name": "Harbin Institute of Technology", "image": "http://tiny.cc/6dwr001", "location": "Harbin", "campuses": ["Weihai", "Shenzhen"], "link": "http://en.hit.edu.cn/", "featured": true, "featuredText": "247"},
+  { "name": "Tianjin University", "image": "http://tiny.cc/kdwr001", "location": "Tianjin", "campuses": ["Weijin", "Beiyang/Yuan", "Binhai"], "link": "https://en.tju.edu.cn/", "featured": true, "featuredText": "257"},
+  { "name": "Beijing Institute of Technology", "image": "http://tiny.cc/rdwr001", "location": "Beijing", "campuses": ["Zhongguancun", "Liangxiang", "Xishan"], "link": "https://english.bit.edu.cn/", "featured": true, "featuredText": "259"},
+  { "name": "Sun Yat-sen University", "image": "http://tiny.cc/oywr001", "location": "Guangzhou", "campuses": ["Zhuhai", "Shenzhen"], "link": "https://www.sysu.edu.cn/sysuen/", "featured": true, "featuredText": "276"},
+  { "name": "Xi’an Jiaotong University", "image": "http://tiny.cc/rywr001", "location": "Shaanxi", "campuses": ["Xingqing", "Yanta", "Qujiang", "iHarbour"], "link": "https://en.xjtu.edu.cn/", "featured": true, "featuredText": "305"},
+  { "name": "Huazhong University of Science and Technology", "image": "http://tiny.cc/2zwr001", "location": "Wuhan", "campuses": ["Wuchang", "Hankou"], "link": "https://english.hust.edu.cn/", "featured": true, "featuredText": "319"},
+  { "name": "Sichuan University", "image": "http://tiny.cc/vzwr001", "location": "Sichuan", "campuses": ["Wangjiang", "Huaxi", "Jiang’an"], "link": "https://en.scu.edu.cn/", "featured": true, "featuredText": "324"},
+  { "name": "Shandong University", "image": "http://tiny.cc/20xr001", "location": "Jinan", "campuses": ["Hongjialou", "Baotuquan", "Qianfoshan", "Xinglongshan"], "link": "https://www.en.sdu.edu.cn/", "featured": true, "featuredText": "339"},
+  { "name": "Xiamen University", "image": "http://tiny.cc/n0xr001", "location": "Fujian", "campuses": ["Siming", "Zhangzhou", "Xiang’an", "Malaysia"], "link": "https://en.xmu.edu.cn/", "featured": true, "featuredText": "341"},
+  { "name": "Southern University of Science and Technology (SUSTech)", "image": "http://tiny.cc/v0xr001", "location": "Guangdong", "campuses": ["Shenzhen"], "link": "https://www.sustech.edu.cn/en/", "featured": true, "featuredText": "343"},
+  { "name": "Nankai University", "image": "http://tiny.cc/n1xr001", "location": "Tianjin", "campuses": ["Balitai", "Jinnan", "TEDA"], "link": "https://en.nankai.edu.cn/", "featured": true, "featuredText": "355"},
+  { "name": "University of Chinese Academy of Sciences (UCAS)", "image": "http://tiny.cc/72xr001", "location": "Beijing", "campuses": ["Yuquanlu", "Zhongguancun", "Yanshihu", "Olympic Village"], "link": "https://english.ucas.ac.cn/", "featured": true, "featuredText": "362"},
+
+
+
+
+
+  { "name": "Shenzhen University", "image": "http://tiny.cc/3utr001", "location": "Shenzhen", "campuses": ["Yuehai", "Lihu"], "link": "https://china.starshipeducation.com/p/shenzhen-university-szu.html", "featured": true, "featuredText": "452"},
+ 
+
+  { "name": "Daqing Normal University", "image": "http://tiny.cc/SS-Daqing", "location": "Heilongjiang", "campuses": ["Daqing", "Fangxiao"], "link": "https://www.dqsy.net/", "featured": false, "featuredText": ""},
+  { "name": "Liaoning University (LNU)", "image": "http://tiny.cc/SS-Liaoning1", "location": "Shenyang", "campuses": ["Chongshan", "Puhe / Daoyi", "Wusheng"], "link": "https://enweb.lnu.edu.cn/", "featured": false, "featuredText": ""},
+  { "name": "Wuhan Sports University", "image": "http://tiny.cc/SS-WuhanSports", "location": "Hubei", "campuses": ["Donghu", "Canglong", "Baoxie", "Wudang"], "link": "https://en.whsu.edu.cn/", "featured": false, "featuredText": ""},
+  { "name": "Wuhan Textile University", "image": "http://tiny.cc/SS-wuhantextile", "location": "Hubei", "campuses": ["Yangguang", "Nanhu", "Donghu", "Canglongdao"], "link": "https://english.wtu.edu.cn/", "featured": false, "featuredText": ""},
+  { "name": "Nanjing Tech University", "image": "http://tiny.cc/SS-NanjingTech", "location": "Jiangsu", "campuses": ["Jiangpu", "Dingjiaoqiao", "Hongqiao"], "link": "https://en.njtech.edu.cn/", "featured": false, "featuredText": ""},
+  { "name": "Liaoning Petrochemical University (LNPU)", "image": "http://tiny.cc/SS-Liaoning", "location": "Liaoning", "campuses": ["Fushun"], "link": "https://www.lnpuchiwest.cn/", "featured": false, "featuredText": ""},
+  { "name": "Hubei University of Economics (HBUE)", "image": "http://tiny.cc/SS-HBUE", "location": "Hubei", "campuses": ["Wuhan"], "link": "https://english.hbue.edu.cn/3327/listm.htm", "featured": false, "featuredText": ""},
+  { "name": "Huzhou Vocational and Technical College", "image": "http://tiny.cc/SS-HVTC", "location": "Zhejiang", "campuses": ["Huzhou"], "link": "https://www.huvtc.edu.cn/", "featured": false, "featuredText": ""},
+  { "name": "Communication University of China Nanjing (CUCN)", "image": "http://tiny.cc/SS-CUCN", "location": "Jiangsu", "campuses": ["Jiangning", "Fangshan", "Binjiang"], "link": "https://en.cuc.edu.cn/", "featured": false, "featuredText": ""},
+  { "name": "Chongqing College of International Business and Economics", "image": "http://tiny.cc/SS-ChongqingCollege", "location": "Chongqing", "campuses": ["Hechuan", "Tongliang"], "link": "https://www.ccibe.edu.cn", "featured": false, "featuredText": ""},
+  { "name": "Zhejiang University of Technology", "image": "http://tiny.cc/SS-Zhejianguniversity", "location": "Zhejiang", "campuses": ["Zhaohui", "Pingfeng", "Moganshan", "Zhejiang"], "link": "https://www.zjut.edu.cn/", "featured": false, "featuredText": ""},
+  { "name": "Hunan University of Technology (HUT)", "image": "http://tiny.cc/SS-HunanHUT", "location": "Hunan", "campuses": ["Tianyuan", "Cultural"], "link": "https://www.hut.edu.cn/", "featured": false, "featuredText": ""},
+  { "name": "Taiyuan University of Technology (TYUT)", "image": "httphttp://tiny.cc/SS-TYUT", "location": "Shanxi", "campuses": ["Yingxi", "Huyu", "Bailin", "Mingxiang"], "link": "https://english.tyut.edu.cn/", "featured": false, "featuredText": ""}
+
+
+
+
+
+
+
+
+]
