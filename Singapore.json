@@ -1,1 +1,50 @@
-404: Not Found
+[
+  { "name": "Amity Global Institute", "image": "http://tiny.cc/jmol001", "link": "https://singapore.starshipeducation.com/p/amity-global-institute.html"},
+  { "name": "National University of Singapore (NUS)", "image": "http://tiny.cc/SS-NUS", "link": "https://nus.edu.sg/"},
+  { "name": "Nanyang Technological University (NTU)", "image": "http://tiny.cc/SS-NTU", "link": "https://www.ntu.edu.sg/"},
+  { "name": "Singapore Management University (SMU)", "image": "http://tiny.cc/SS-SMU", "link": "https://www.smu.edu.sg/"},
+  { "name": "Singapore Institute of Technology (SIT)", "image": "http://tiny.cc/SS-SIT", "link": "https://www.singaporetech.edu.sg/"},
+  { "name": "Singapore Institute of Management (SIM)", "image": "http://tiny.cc/SS-SIM", "link": "https://www.sim.edu.sg/"},
+  { "name": "Singapore University of Social Sciences (SUSS)", "image": "http://tiny.cc/SS-SUSS", "link": "https://www.suss.edu.sg/"},
+  { "name": "Singapore University of Technology and Design (SUTD)", "image": "http://tiny.cc/SS_SUTD", "link": "https://www.sutd.edu.sg/"},
+  { "name": "Kaplan Singapore", "image": "http://tiny.cc/SS-kaplan", "link": "https://www.kaplan.com.sg/"},
+  { "name": "PSB Academy", "image": "http://tiny.cc/SS-psb", "link": "https://www.psb-academy.edu.sg/"},
+  { "name": "James Cook University Singapore (JCU)", "image": "http://tiny.cc/SS-JCU", "link": "https://www.jcu.edu.sg/"},
+  { "name": "Curtin University Singapore", "image": "http://tiny.cc/SS-curtinsing", "link": "https://curtin.edu.sg/"},
+  { "name": "Birmingham City University", "image": "http://tiny.cc/SS-birminghamsing", "link": "https://www.bcu.ac.uk/international/bcu-in-your-country/singapore"},
+  { "name": "Monash College Singapore", "image": "http://tiny.cc/ss-monashsing", "link": "https://www.monashcollege.edu.au/about-us/our-international-partners/singapore"},
+  { "name": "Murdoch University Singapore", "image": "http://tiny.cc/SS-murdochsing", "link": "https://www.murdoch.sg/"},
+  { "name": "Nanyang Institute of Management", "image": "http://tiny.cc/ss-nanyang", "link": "https://nanyang.edu.sg/"},
+  { "name": "London School of Business and Finance (LSBF)", "image": "http://tiny.cc/ss-londonsing", "link": "https://www.lsbf.edu.sg/"},
+  { "name": "Northumbria University Singapore", "image": "http://tiny.cc/ss-Northumbriasing", "link": "https://www.kaplan.com.sg/university/northumbria-university"},
+  { "name": "Management Development Institute of Singapore (MDIS)", "image": "http://tiny.cc/SS-MDIS", "link": "https://www.lsbf.edu.sg/"},
+  { "name": "Raffles College of Higher Education", "image": "http://tiny.cc/SS-raffles", "link": "https://raffles-college.edu.sg/"},
+  { "name": "RMIT Singapore", "image": "http://tiny.cc/SS-RMITsing", "link": "https://www.kaplan.com.sg/university/rmit-university"},
+  { "name": "SP Jain School of Global Management", "image": "http://tiny.cc/SS-spjain", "link": "https://www.spjain.sg/"},
+  { "name": "Royal Holloway University of London Singapore", "image": "http://tiny.cc/SS-RMITsing", "link": "https://www.kaplan.com.sg/university/royal-holloway-university-london"},
+  { "name": "Technical University of Munich Asia", "image": "http://tiny.cc/SS-TUM", "link": "https://tum-asia.edu.sg/"},
+  { "name": "University College Dublin Singapore", "image": "http://tiny.cc/SS-RMITsing", "link": "https://www.kaplan.com.sg/university/university-college-dublin"},
+  { "name": "William Angliss Institute Singapore", "image": "http://tiny.cc/SS-Wiliamanglish", "link": "https://angliss.edu.sg/"},
+  { "name": "University of Essex Singapore", "image": "http://tiny.cc/SS-RMITsing", "link": "https://www.kaplan.com.sg/university/university-essex"},
+  { "name": "University of Portsmouth Singapore", "image": "http://tiny.cc/SS-RMITsing", "link": "https://www.kaplan.com.sg/university/university-portsmouth"},
+  { "name": "Embry Riddle Aeronautical University Asia", "image": "http://tiny.cc/SS-Embry", "link": "https://asia.erau.edu/"},
+  { "name": "Dimensions International College", "image": "http://tiny.cc/ss-dimensions", "link": "https://dimensions.edu.sg/"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
