@@ -1,1 +1,24 @@
-404: Not Found
+[
+  { "name": "University of Toronto", "image": "http://tiny.cc/ss-torontouni", "link": "https://www.utoronto.ca/"},
+  { "name": "University of British Columbia", "image": "http://tiny.cc/SS-UBC", "link": "https://www.ubc.ca/"},
+  { "name": "McGill University", "image": "http://tiny.cc/SS-McGill", "link": "https://www.mcgill.ca/"},
+  { "name": "McMaster University", "image": "http://tiny.cc/SS-McMaster", "link": "https://www.mcmaster.ca/"},
+  { "name": "University of Alberta", "image": "http://tiny.cc/SS-Alberta", "link": "https://www.ualberta.ca/en/index.html"},
+  { "name": "Universite de Montreal", "image": "http://tiny.cc/SS-Montreal", "link": "https://www.umontreal.ca/"},
+  { "name": "University of Waterloo", "image": "http://tiny.cc/SS-Waterloo", "link": "https://uwaterloo.ca/"},
+  { "name": "University of Calgary", "image": "http://tiny.cc/SS-Calgary", "link": "https://ucalgary.ca/"},
+  { "name": "University of Ottawa", "image": "http://tiny.cc/SS-Ottawa", "link": "https://www.uottawa.ca/"},
+  { "name": "Western University", "image": "http://tiny.cc/ss-westernuni", "link": "https://www.uwo.ca/index.html"},
+  { "name": "Academy of Learning Career College", "image": "http://tiny.cc/SS-AOLCC", "link": "https://albioncollege.ca/"},
+  { "name": "Acadia University", "image": "http://tiny.cc/SS-Acadia", "link": "https://www2.acadiau.ca/home.html"},
+  { "name": "Acsenda School of Management", "image": "http://tiny.cc/SS-Ascenda", "link": "https://acsenda.com/"},
+  { "name": "Adler University", "image": "http://tiny.cc/SS-Adler", "link": "https://www.adler.edu/campuses/#vancouver"},
+  { "name": "Alexander College", "image": "http://tiny.cc/CC-Alexander", "link": "https://alexandercollege.ca/"}
+  
+
+
+
+
+
+
+]
