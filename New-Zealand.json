@@ -1,5 +1,7 @@
 [
-  { "name": "The University of Auckland", "image": "http://tiny.cc/SS-Aucklanduni", "link": "https://www.auckland.ac.nz/en.html" },
+  { "name": "The University of Auckland", "image": "http://tiny.cc/SS-Aucklanduni", "location": "Auckland", "campuses": ["Grafton", "Newmarket"], "link": "https://newzealand.starshipeducation.com/p/the-university-of-auckland.html", "featured": true, "featuredText": "65"},
+
+  
   { "name": "The University of Otago", "image": "http://tiny.cc/SS-Otagouni", "link": "https://www.otago.ac.nz/" },
   { "name": "The University of Waikato", "image": "http://tiny.cc/SS-waikatouni", "link": "https://www.waikato.ac.nz/" },
   { "name": "Massey University New Zealand", "image": "https://bit.ly/3oleMGB", "link": "https://www.massey.ac.nz/" },
