@@ -1,6 +1,6 @@
 [
 
-  { "name": "Peking University", "image": "http://tiny.cc/hyur001", "location": "Beijing", "campuses": ["Yànyuán", "Changping", "Shenzhen", "Shenzhen"], "link": "https://english.pku.edu.cn/", "featured": true, "featuredText": "14"},
+  { "name": "Peking University", "image": "http://tiny.cc/hyur001", "location": "Beijing", "campuses": ["Yànyuán", "Changping", "Shenzhen", "Shenzhen"], "link": "https://blog.starshipeducation.com/2026/02/bedahjurusan-anthropology-and-sociology_3.html", "featured": true, "featuredText": "14"},
   { "name": "Tsinghua University", "image": "http://tiny.cc/qyur001", "location": "Beijing", "campuses": ["Shenzhen", "Jiaxing"], "link": "https://www.tsinghua.edu.cn/en/", "featured": true, "featuredText": "17"},
   { "name": "Fudan University", "image": "http://tiny.cc/2zur001", "location": "Shanghai", "campuses": ["Handan", "Fenglin", "Zhangjiang", "Zhangjiang"], "link": "https://www.fudan.edu.cn/en/", "featured": true, "featuredText": "30"},
   { "name": "Shanghai Jiao Tong University", "image": "http://tiny.cc/szur001", "location": "Shanghai", "campuses": ["Minhang", "Xuhui", "Huangpu", "Changning", "Qibao", "Chongming"], "link": "https://www.fudan.edu.cn/en/", "featured": true, "featuredText": "47"},
