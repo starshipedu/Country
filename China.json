@@ -42,7 +42,7 @@
   { "name": "Chongqing College of International Business and Economics", "image": "http://tiny.cc/SS-ChongqingCollege", "location": "Chongqing", "campuses": ["Hechuan", "Tongliang"], "link": "https://www.ccibe.edu.cn", "featured": false, "featuredText": ""},
   { "name": "Zhejiang University of Technology", "image": "http://tiny.cc/SS-Zhejianguniversity", "location": "Zhejiang", "campuses": ["Zhaohui", "Pingfeng", "Moganshan", "Zhejiang"], "link": "https://www.zjut.edu.cn/", "featured": false, "featuredText": ""},
   { "name": "Hunan University of Technology (HUT)", "image": "http://tiny.cc/SS-HunanHUT", "location": "Hunan", "campuses": ["Tianyuan", "Cultural"], "link": "https://www.hut.edu.cn/", "featured": false, "featuredText": ""},
-  { "name": "Taiyuan University of Technology (TYUT)", "image": "httphttp://tiny.cc/SS-TYUT", "location": "Shanxi", "campuses": ["Yingxi", "Huyu", "Bailin", "Mingxiang"], "link": "https://english.tyut.edu.cn/", "featured": false, "featuredText": ""}
+  { "name": "Taiyuan University of Technology (TYUT)", "image": "http://tiny.cc/SS-TYUT", "location": "Shanxi", "campuses": ["Yingxi", "Huyu", "Bailin", "Mingxiang"], "link": "https://english.tyut.edu.cn/", "featured": false, "featuredText": ""}
 
 
 
