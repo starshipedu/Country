@@ -22,14 +22,7 @@
   { "name": "Southern University of Science and Technology (SUSTech)", "image": "http://tiny.cc/v0xr001", "location": "Guangdong", "campuses": ["Shenzhen"], "link": "https://www.sustech.edu.cn/en/", "featured": true, "featuredText": "343"},
   { "name": "Nankai University", "image": "http://tiny.cc/n1xr001", "location": "Tianjin", "campuses": ["Balitai", "Jinnan", "TEDA"], "link": "https://en.nankai.edu.cn/", "featured": true, "featuredText": "355"},
   { "name": "University of Chinese Academy of Sciences (UCAS)", "image": "http://tiny.cc/72xr001", "location": "Beijing", "campuses": ["Yuquanlu", "Zhongguancun", "Yanshihu", "Olympic Village"], "link": "https://english.ucas.ac.cn/", "featured": true, "featuredText": "362"},
-
-
-
-
-
   { "name": "Shenzhen University", "image": "http://tiny.cc/3utr001", "location": "Shenzhen", "campuses": ["Yuehai", "Lihu"], "link": "https://china.starshipeducation.com/p/shenzhen-university-szu.html", "featured": true, "featuredText": "452"},
- 
-
   { "name": "Daqing Normal University", "image": "http://tiny.cc/SS-Daqing", "location": "Heilongjiang", "campuses": ["Daqing", "Fangxiao"], "link": "https://www.dqsy.net/", "featured": false, "featuredText": ""},
   { "name": "Liaoning University (LNU)", "image": "http://tiny.cc/SS-Liaoning1", "location": "Shenyang", "campuses": ["Chongshan", "Puhe / Daoyi", "Wusheng"], "link": "https://enweb.lnu.edu.cn/", "featured": false, "featuredText": ""},
   { "name": "Wuhan Sports University", "image": "http://tiny.cc/SS-WuhanSports", "location": "Hubei", "campuses": ["Donghu", "Canglong", "Baoxie", "Wudang"], "link": "https://en.whsu.edu.cn/", "featured": false, "featuredText": ""},
@@ -42,7 +35,13 @@
   { "name": "Chongqing College of International Business and Economics", "image": "http://tiny.cc/SS-ChongqingCollege", "location": "Chongqing", "campuses": ["Hechuan", "Tongliang"], "link": "https://www.ccibe.edu.cn", "featured": false, "featuredText": ""},
   { "name": "Zhejiang University of Technology", "image": "http://tiny.cc/SS-Zhejianguniversity", "location": "Zhejiang", "campuses": ["Zhaohui", "Pingfeng", "Moganshan", "Zhejiang"], "link": "https://www.zjut.edu.cn/", "featured": false, "featuredText": ""},
   { "name": "Hunan University of Technology (HUT)", "image": "http://tiny.cc/SS-HunanHUT", "location": "Hunan", "campuses": ["Tianyuan", "Cultural"], "link": "https://www.hut.edu.cn/", "featured": false, "featuredText": ""},
-  { "name": "Taiyuan University of Technology (TYUT)", "image": "http://tiny.cc/SS-TYUT", "location": "Shanxi", "campuses": ["Yingxi", "Huyu", "Bailin", "Mingxiang"], "link": "https://english.tyut.edu.cn/", "featured": false, "featuredText": ""}
+  { "name": "Taiyuan University of Technology (TYUT)", "image": "http://tiny.cc/SS-TYUT", "location": "Shanxi", "campuses": ["Yingxi", "Huyu", "Bailin", "Mingxiang"], "link": "https://english.tyut.edu.cn/", "featured": false, "featuredText": ""},
+
+  { "name": "Agricultural University of Hebei", "image": "https://www.hebau.edu.cn/__local/E/42/47/B61234567890ABCDEF1234567890_C3B9F2A4_1A2B3C.jpg", "location": ["Baoding", "Qinhuangdao", "Cangzhou", "Dingzhou"], "campuses": ["Baoding", "Qinhuangdao", "Bohai", "Dingzhou"], "link": "https://www.hebau.edu.cn/", "featured": false, "featuredText": ""},
+  { "name": "Anhui Agricultural University", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/South_Gate_of_Anhui_Agricultural_University.png", "location": ["Hefei"], "campuses": ["Hefei"], "link": "https://www.ahau.edu.cn/", "featured": false, "featuredText": ""},
+  { "name": "Anhui Jianzhu University", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/Anhui_Jianzhu_University_South_Gate.jpg", "location": ["Hefei"], "campuses": ["South Campus", "North Campus"], "link": "https://www.ahjzu.edu.cn/", "featured": false, "featuredText": ""},
+  { "name": "Anhui Medical University", "image": "https://www.thepaper.cn/img/news/202509/7/Anhui_Medical_University_Library.jpg", "location": ["Hefei"], "campuses": ["Hefei"], "link": "https://www.ahmu.edu.cn/", "featured": false, "featuredText": ""},
+  { "name": "Anhui Normal University", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/Zheshan_Campus_of_Anhui_Normal_University_03_2012-05.JPG", "location": ["Wuhu"], "campuses": ["Zheshan", "Huajin"], "link": "https://www.ahnu.edu.cn/", "featured": false, "featuredText": ""}
 
 
 
