@@ -37,13 +37,11 @@
   { "name": "Hunan University of Technology (HUT)", "image": "http://tiny.cc/SS-HunanHUT", "location": "Hunan", "campuses": ["Tianyuan", "Cultural"], "link": "https://www.hut.edu.cn/", "featured": false, "featuredText": ""},
   { "name": "Taiyuan University of Technology (TYUT)", "image": "http://tiny.cc/SS-TYUT", "location": "Shanxi", "campuses": ["Yingxi", "Huyu", "Bailin", "Mingxiang"], "link": "https://english.tyut.edu.cn/", "featured": false, "featuredText": ""},
 
-  { "name": "Agricultural University of Hebei", "image": "https://www.hebau.edu.cn/__local/E/42/47/B61234567890ABCDEF1234567890_C3B9F2A4_1A2B3C.jpg", "location": ["Baoding", "Qinhuangdao", "Cangzhou", "Dingzhou"], "campuses": ["Baoding", "Qinhuangdao", "Bohai", "Dingzhou"], "link": "https://www.hebau.edu.cn/", "featured": false, "featuredText": ""},
-  { "name": "Anhui Agricultural University", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/South_Gate_of_Anhui_Agricultural_University.png", "location": ["Hefei"], "campuses": ["Hefei"], "link": "https://www.ahau.edu.cn/", "featured": false, "featuredText": ""},
-  { "name": "Anhui Jianzhu University", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/Anhui_Jianzhu_University_South_Gate.jpg", "location": ["Hefei"], "campuses": ["South Campus", "North Campus"], "link": "https://www.ahjzu.edu.cn/", "featured": false, "featuredText": ""},
-  { "name": "Anhui Medical University", "image": "https://www.thepaper.cn/img/news/202509/7/Anhui_Medical_University_Library.jpg", "location": ["Hefei"], "campuses": ["Hefei"], "link": "https://www.ahmu.edu.cn/", "featured": false, "featuredText": ""},
-  { "name": "Anhui Normal University", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/Zheshan_Campus_of_Anhui_Normal_University_03_2012-05.JPG", "location": ["Wuhu"], "campuses": ["Zheshan", "Huajin"], "link": "https://www.ahnu.edu.cn/", "featured": false, "featuredText": ""}
-
-
+  { "name": "Agricultural University of Hebei", "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/The_Gate_1931%2CAgricultural_University_of_Hebei.jpg", "location": ["Baoding", "Qinhuangdao", "Cangzhou", "Dingzhou"], "campuses": ["Baoding", "Qinhuangdao", "Bohai", "Dingzhou"], "link": "https://www.hebau.edu.cn/", "featured": false, "featuredText": ""},
+  { "name": "Anhui Agricultural University", "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Anhui_Agricultural_University.jpg", "location": ["Hefei"], "campuses": ["Hefei"], "link": "https://www.ahau.edu.cn/", "featured": false, "featuredText": ""},
+  { "name": "Anhui Jianzhu University", "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Anhui_Jianzhu_University_South_Gate.jpg", "location": ["Hefei"], "campuses": ["South Campus", "North Campus"], "link": "https://www.ahjzu.edu.cn/", "featured": false, "featuredText": ""},
+  { "name": "Anhui Medical University", "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Anhui_Medical_University_Main_Building.jpg", "location": ["Hefei"], "campuses": ["Hefei"], "link": "https://www.ahmu.edu.cn/", "featured": false, "featuredText": ""},
+  { "name": "Anhui Normal University", "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Zheshan_Campus_of_Anhui_Normal_University_02_2012-05.JPG", "location": ["Wuhu"], "campuses": ["Zheshan", "Huajin"], "link": "https://www.ahnu.edu.cn/", "featured": false, "featuredText": ""}
 
 
 
