@@ -425,7 +425,7 @@
   { "name": "New Era Institute", "image": "https://bit.ly/3LiT66n", "link": "https://newerainstitute.edu.au/"},
   { "name": "North Lakes State College", "image": "https://bit.ly/3Pv2bf1", "link": "https://northlakescollege.eq.edu.au/"},
   
-  { "name": "Novus College", "image": "http://tiny.cc/novuscollege", "location": "Sydney", "campuses": ["Ultimo, Gosford", "Perth "], "link": "https://australia.starshipeducation.com/p/novus-college_28.html", "featured": false, "featuredText": ""},
+  { "name": "Novus College", "image": "http://tiny.cc/novuscollege", "location": "Sydney", "campuses": ["Ultimo, Gosford", "Perth "], "link": "https://australia.starshipeducation.com/p/novus-college.html", "featured": false, "featuredText": ""},
 
   
   { "name": "Norwood International High School", "image": "https://bit.ly/3PdWL6B", "link": "https://www.nmhs.sa.edu.au/"},
