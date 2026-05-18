@@ -1,18 +1,17 @@
 [
   { "name": "The University of Auckland", "image": "http://tiny.cc/SS-Aucklanduni", "location": "Auckland", "campuses": ["Grafton", "Newmarket"], "link": "https://newzealand.starshipeducation.com/p/the-university-of-auckland.html", "featured": true, "featuredText": "65"},
-
-  
   { "name": "The University of Otago", "image": "http://tiny.cc/SS-Otagouni", "link": "https://www.otago.ac.nz/" },
   { "name": "The University of Waikato", "image": "http://tiny.cc/SS-waikatouni", "link": "https://www.waikato.ac.nz/" },
-  { "name": "Massey University New Zealand", "image": "https://bit.ly/3oleMGB", "link": "https://www.massey.ac.nz/" },
+  { "name": "Massey University", "image": "https://bit.ly/3oleMGB", "link": "https://www.massey.ac.nz/" },
   { "name": "Victoria University of Wellington", "image": "http://tiny.cc/SS-victoriauninz", "link": "https://www.wgtn.ac.nz/" },
-  { "name": "The University of Canterbury", "image": "http://tiny.cc/SS-Canterbury", "link": "https://www.canterbury.ac.nz/" },
+  { "name": "University of Canterbury", "image": "http://tiny.cc/SS-Canterbury", "link": "https://www.canterbury.ac.nz/" },
   { "name": "Lincoln University", "image": "https://bit.ly/4aeLFIg", "link": "https://www.lincoln.ac.nz/" },
   { "name": "Auckland University of Technology - AUT", "image": "https://bit.ly/3L5Fiwk", "link": "https://newzealand.starshipeducation.com/p/auckland-university-of-technology.html" },
   { "name": "Aotearoa Career and Management Institute (ACMI)", "image": "https://bit.ly/3ooBJIE", "link": "https://newzealand.starshipeducation.com/p/aotearoa-career-and-management.html" },
   { "name": "Albany Junior High School", "image": "https://bit.ly/46V9yBM", "link": "https://www.ajhs.school.nz/" },
   { "name": "Auckland Grammar School", "image": "https://bit.ly/3RizWQs", "link": "https://www.ags.school.nz/" },
   { "name": "Auckland Institute of Studies", "image": "https://bit.ly/3RgQfxf", "link": "https://www.ais.ac.nz/" },
+  
   { "name": "Auckland International College", "image": "https://bit.ly/3uNlRD4", "link": "https://www.aic.ac.nz/" },
   { "name": "Aspire2 International", "image": "https://bit.ly/482oFu4", "link": "https://aspire2international.ac.nz/" },
   { "name": "ATMC New Zealand", "image": "https://bit.ly/3RhcqDp", "link": "https://atmc.ac.nz/" },
