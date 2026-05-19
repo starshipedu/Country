@@ -30,7 +30,18 @@
 { "name": "Bath Spa University", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrZxyi-A4WUpQCJtqloikSL7LLe0IvXSxx4w&s", "location": "Bath, England, UK", "campuses": ["Newton Park", "Sion Hill", "Corsham Court"], "link": "https://www.bathspa.ac.uk/", "featured": false, "featuredText": ""},
 { "name": "Bayswater Education", "image": "https://www.travelclass.org/uploads/15444550185451.jpg", "location": "London, England, UK", "campuses": ["London"], "link": "https://www.bayswater.ac/", "featured": false, "featuredText": ""},
 { "name": "Bellerbys College", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6VlKKTkp74qVRhEdkzt_Hwr1KfNK81L1UKQ&s", "location": "Brighton/Cambridge/London, England, UK", "campuses": ["Brighton", "Cambridge", "London"], "link": "https://www.bellerbys.com/", "featured": false, "featuredText": ""},
-{ "name": "Bexhill College", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk667Jf2gSYIPQScifv6FpBKXcdn_j8CDASQ&s", "location": "Bexhill-on-Sea, England, UK", "campuses": ["Bexhill-on-Sea"], "link": "https://www.bexhillcollege.ac.uk/", "featured": false, "featuredText": ""}
+{ "name": "Bexhill College", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk667Jf2gSYIPQScifv6FpBKXcdn_j8CDASQ&s", "location": "Bexhill-on-Sea, England, UK", "campuses": ["Bexhill-on-Sea"], "link": "https://www.bexhillcollege.ac.uk/", "featured": false, "featuredText": ""},
+{ "name": "BIMM University", "image": "", "location": "London, England, UK", "campuses": ["London", "Brighton", "Bristol", "Birmingham", "Manchester"], "link": "https://www.bimm.ac.uk/", "featured": false, "featuredText": ""},
+{ "name": "Birkbeck, University of London", "image": "", "location": "London, England, UK", "campuses": ["Bloomsbury"], "link": "https://www.bbk.ac.uk/", "featured": false, "featuredText": ""},
+{ "name": "Birmingham City University", "image": "", "location": "Birmingham, England, UK", "campuses": ["City Centre Campus", "City South Campus"], "link": "https://www.bcu.ac.uk/", "featured": false, "featuredText": ""},
+{ "name": "Birmingham City University International College", "image": "", "location": "Birmingham, England, UK", "campuses": ["Birmingham"], "link": "https://www.bcuic.navitas.com/", "featured": false, "featuredText": ""},
+{ "name": "Bishop Grosseteste University", "image": "", "location": "Lincoln, England, UK", "campuses": ["Lincoln"], "link": "https://www.bgu.ac.uk/", "featured": false, "featuredText": ""},
+{ "name": "Bloomsbury Institute", "image": "", "location": "London, England, UK", "campuses": ["Bloomsbury"], "link": "https://www.bil.ac.uk/", "featured": false, "featuredText": ""},
+{ "name": "Bournemouth University", "image": "", "location": "Bournemouth, England, UK", "campuses": ["Talbot Campus", "Lansdowne Campus"], "link": "https://www.bournemouth.ac.uk/", "featured": false, "featuredText": ""},
+{ "name": "Bournemouth University International College", "image": "", "location": "Bournemouth, England, UK", "campuses": ["Bournemouth"], "link": "https://www.kaplanpathways.com/universities/bournemouth-university/", "featured": false, "featuredText": ""},
+{ "name": "BPP University", "image": "", "location": "London, England, UK", "campuses": ["London", "Manchester", "Birmingham", "Leeds", "Bristol", "Cambridge"], "link": "https://www.bpp.com/", "featured": false, "featuredText": ""},
+{ "name": "Brunel University London", "image": "", "location": "Uxbridge, London, England, UK", "campuses": ["Uxbridge"], "link": "https://www.brunel.ac.uk/", "featured": false, "featuredText": ""}
+
 
 
 
