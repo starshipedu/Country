@@ -1,4 +1,16 @@
 [
+  { "name": "Imperial College London", "image": "https://www.imperial.ac.uk/newsarchive/images/main/newseventsimage_1732624176037_mainnews2012_x1.jpg", "location": "London, England, UK", "campuses": ["South Kensington"], "link": "https://www.imperial.ac.uk/", "featured": true, "featuredText": "2"},
+  { "name": "University of Oxford", "image": "https://cdn.britannica.com/03/117103-050-F4C2FC83/view-University-of-Oxford-England-Oxfordshire.jpg", "location": "Oxford, England, UK", "campuses": ["Oxford"], "link": "https://www.ox.ac.uk/", "featured": true, "featuredText": "4"},
+  { "name": "University of Cambridge", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxhpiqIyzPK09q-7wCQC8bE8dOWNh0ixW0pg&s", "location": "Cambridge, England, UK", "campuses": ["Cambridge"], "link": "https://www.cam.ac.uk/", "featured": true, "featuredText": "6"},
+  { "name": "University College London (UCL)", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeDPiKmLcFTxR9o7I3avmzAy1pFqgRZav8dw&s", "location": "London, England, UK", "campuses": ["Bloomsbury"], "link": "https://www.ucl.ac.uk/", "featured": true, "featuredText": "9"},
+  { "name": "King's College London", "image": "https://planonsoftware.com/upload_mm/7/7/f/4527_fullimage_4527_fullimage_20160225-image-case-study-kings-college-london-strand-terrace_3840x3313_2491x2682.jpg", "location": "London, England, UK", "campuses": ["Strand", "Guy's", "Waterloo", "Denmark Hill"], "link": "https://www.kcl.ac.uk/", "featured": true, "featuredText": "31"},
+  { "name": "The University of Edinburgh", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBWnJCFKv_0XEsSuEfysZQ2Nr4afJniSJlhQ&s", "location": "Edinburgh, Scotland, UK", "campuses": ["Central Area", "King's Buildings", "BioQuarter", "Western General"], "link": "https://www.ed.ac.uk/", "featured": true, "featuredText": "34"},
+  { "name": "The University of Manchester", "image": "https://theaccessproject.org.uk/wp-content/uploads/2025/02/Growthstrategy-Wordpress-2-png.webp", "location": "Manchester, England, UK", "campuses": ["Manchester"], "link": "https://www.manchester.ac.uk/", "featured": true, "featuredText": "35"},
+  { "name": "University of Bristol", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR799gFPJ9-PZdTVKiTMxb86COhflQCCPVdA&s", "location": "Bristol, England, UK", "campuses": ["Bristol"], "link": "https://www.bristol.ac.uk/", "featured": true, "featuredText": "51"},
+  { "name": "London School of Economics and Political Science (LSE)", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sir_Arthur_Lewis_Building_September_2023.jpg/250px-Sir_Arthur_Lewis_Building_September_2023.jpg", "location": "London, England, UK", "campuses": ["Holborn"], "link": "https://www.lse.ac.uk/", "featured": true, "featuredText": "56"}
+  { "name": "University of Warwick", "image": "https://images.adsttc.com/media/images/628d/3a8b/7555/967c/b862/a3b5/large_jpg/faculty-of-arts-building-university-of-warwick-feilden-clegg-bradley-studios_2.jpg?1653422766", "location": "Coventry, England, UK", "campuses": ["Main Campus"], "link": "https://warwick.ac.uk/", "featured": true, "featuredText": "74"},
+  
+  
   { "name": "Abbey College", "image": "http://tiny.cc/ss-AbbeyCollege", "link": "https://abbeycollege.co.uk/"},
   { "name": "Abbotsholme School", "image": "http://tiny.cc/ss-AbbotsholmeSchool", "link": "https://www.abbotsholme.co.uk/"},
   { "name": "Abertay University", "image": "http://tiny.cc/SS-Abertayuniversity", "link": "https://www.abertay.ac.uk/"},
@@ -9,6 +21,9 @@
   { "name": "(ARU) College", "image": "http://tiny.cc/SS-ARUcollege", "link": "https://www.aru.ac.uk/student-life/life-on-campus/aru-college"},
   { "name": "Arden University", "image": "http://tiny.cc/SS-Ardenuniversity", "link": "https://arden.ac.uk/"},
   { "name": "Arts University Bournemouth", "image": "http://tiny.cc/ss-ArtsBournemouth", "link": "https://aub.ac.uk/" }
+
+
+  
 
 
 
