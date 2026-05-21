@@ -163,6 +163,4 @@
   { "name": "Wright State University", "image": "http://tiny.cc/SS-WrightState", "location": "Dayton", "campuses": ["Dayton"], "link": "https://www.wright.edu/", "featured": true, "featuredText": "1201-1400" },
   { "name": "University of Texas San Antonio", "image": "http://tiny.cc/SS-UTSA", "location": "San Antonio", "campuses": ["San Antonio"], "link": "https://www.utsa.edu/", "featured": true, "featuredText": "1201-1400" },
   { "name": "California State University Fullerton", "image": "http://tiny.cc/SS-CSUF", "location": "Fullerton", "campuses": ["Fullerton"], "link": "https://www.fullerton.edu/", "featured": true, "featuredText": "1201-1400" }
-    
-
 ]
