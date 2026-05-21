@@ -1,6 +1,4 @@
 [
-
-[
   { "name": "Massachusetts Institute of Technology (MIT)", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB7It-h2c2bWQCIho42tvGgF75vlzsng3k2g&s", "location": "Cambridge", "campuses": ["Cambridge"], "link": "https://web.mit.edu/", "featured": true, "featuredText": "1" },
   { "name": "Stanford University", "image": "https://images.shiksha.com/mediadata/images/1533535408phpRuopAS.jpeg", "location": "Stanford", "campuses": ["Stanford"], "link": "https://www.stanford.edu/", "featured": true, "featuredText": "3" },
   { "name": "Harvard University", "image": "https://www.crimsoneducation.org/_next/image?url=https%3A%2F%2Fa.storyblok.com%2Ff%2F64062%2F2560x1792%2F39445ec358%2Fharvard.jpeg&w=3840&q=75", "location": "Cambridge", "campuses": ["Cambridge"], "link": "https://www.harvard.edu/", "featured": true, "featuredText": "5" },
