@@ -121,7 +121,7 @@
   { "name": "University of Alabama Birmingham", "image": "http://tiny.cc/SS-UAB", "location": "Birmingham", "campuses": ["Birmingham"], "link": "https://www.uab.edu/", "featured": true, "featuredText": "881" },
   { "name": "University of Nevada Reno", "image": "http://tiny.cc/SS-UNR", "location": "Reno", "campuses": ["Reno"], "link": "https://www.unr.edu/", "featured": true, "featuredText": "889" },
   { "name": "Howard University", "image": "http://tiny.cc/SS-Howard", "location": "Washington", "campuses": ["Washington"], "link": "https://howard.edu/", "featured": true, "featuredText": "897"},
-  { "name": "University of Rhode Island", "image": "http://tiny.cc/SS-URI", "location": "Kingston", "campuses": ["Kingston"], "link": "https://www.uri.edu/", "featured": true, "featuredText": 905"},
+  { "name": "University of Rhode Island", "image": "http://tiny.cc/SS-URI", "location": "Kingston", "campuses": ["Kingston"], "link": "https://www.uri.edu/", "featured": true, "featuredText": "905"},
   { "name": "Texas Tech University", "image": "http://tiny.cc/SS-TTU", "location": "Lubbock", "campuses": ["Lubbock"], "link": "https://www.ttu.edu/", "featured": true, "featuredText": "914" },
   { "name": "University of Idaho", "image": "http://tiny.cc/SS-Idaho", "location": "Moscow", "campuses": ["Moscow"], "link": "https://www.uidaho.edu/", "featured": true, "featuredText": "921" },
   { "name": "University of Louisville", "image": "http://tiny.cc/SS-Louisville", "location": "Louisville", "campuses": ["Belknap"], "link": "https://louisville.edu/", "featured": true, "featuredText": "930" },
