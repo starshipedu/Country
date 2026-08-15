@@ -1,14 +1,13 @@
 [
-
-  { "name": "Peking University", "image": "http://tiny.cc/hyur001", "location": "Beijing", "campuses": ["Yànyuán", "Changping", "Shenzhen", "Shenzhen"], "link": "https://china.starshipeducation.com/p/peking-university-pku.html", "featured": true, "featuredText": "14"},
+  { "name": "Peking University", "image": "http://tiny.cc/hyur001", "location": "Beijing", "campuses": ["Yànyuán", "Changping", "Shenzhen"], "link": "https://china.starshipeducation.com/p/peking-university-pku.html", "featured": true, "featuredText": "14"},
   { "name": "Tsinghua University", "image": "http://tiny.cc/qyur001", "location": "Beijing", "campuses": ["Shenzhen", "Jiaxing"], "link": "https://www.tsinghua.edu.cn/en/", "featured": true, "featuredText": "17"},
-  { "name": "Fudan University", "image": "http://tiny.cc/2zur001", "location": "Shanghai", "campuses": ["Handan", "Fenglin", "Zhangjiang", "Zhangjiang"], "link": "https://www.fudan.edu.cn/en/", "featured": true, "featuredText": "30"},
+  { "name": "Fudan University", "image": "http://tiny.cc/2zur001", "location": "Shanghai", "campuses": ["Handan", "Fenglin", "Zhangjiang"], "link": "https://www.fudan.edu.cn/en/", "featured": true, "featuredText": "30"},
   { "name": "Shanghai Jiao Tong University", "image": "http://tiny.cc/szur001", "location": "Shanghai", "campuses": ["Minhang", "Xuhui", "Huangpu", "Changning", "Qibao", "Chongming"], "link": "https://www.fudan.edu.cn/en/", "featured": true, "featuredText": "47"},
   { "name": "Zhejiang University", "image": "http://tiny.cc/xzur001", "location": "Zhejiang", "campuses": ["Yuquan", "Xixi", "Huajiachi", "Zhijiang", "Zhoushan", "Haining", "Ningbo"], "link": "https://www.zju.edu.cn/english/", "featured": true, "featuredText": "49"},
   { "name": "Nanjing University", "image": "http://tiny.cc/80vr001", "location": "Jiangsu", "campuses": ["Gulou", "Xianlin", "Pukou", "Suzhou"], "link": "https://www.nju.edu.cn/en/", "featured": true, "featuredText": "103"},
   { "name": "University of Science and Technology of China", "image": "http://tiny.cc/o0vr001", "location": "Anhui", "campuses": ["Hefei", "Suzhou"], "link": "https://en.ustc.edu.cn/", "featured": true, "featuredText": "132"},
   { "name": "Tongji University", "image": "http://tiny.cc/fcwr001", "location": "Shanghai", "campuses": ["Siping", "Jiading", "Huxi", "Hubei", "Lingang", "Zhejiang"], "link": "https://en.tongji.edu.cn/p/", "featured": true, "featuredText": "177"},
-  { "name": "Wuhan University", "image": "http://tiny.cc/pcwr001", "location": "Hubei", "campuses": ["Qingshan", "Huangjiahu"], "link": "httpshttps://en.whu.edu.cn/", "featured": true, "featuredText": "186"},
+  { "name": "Wuhan University", "image": "http://tiny.cc/pcwr001", "location": "Hubei", "campuses": ["Qingshan", "Huangjiahu"], "link": "https://en.whu.edu.cn/", "featured": true, "featuredText": "186"},
   { "name": "Beijing Normal University (BNU)", "image": "http://tiny.cc/3dwr001", "location": "Beijing", "campuses": ["Haidian", "Changping", "Xicheng", "Zhuhai"], "link": "https://english.bnu.edu.cn/", "featured": true, "featuredText": "247"},
   { "name": "Harbin Institute of Technology", "image": "http://tiny.cc/6dwr001", "location": "Harbin", "campuses": ["Weihai", "Shenzhen"], "link": "http://en.hit.edu.cn/", "featured": true, "featuredText": "247"},
   { "name": "Tianjin University", "image": "http://tiny.cc/kdwr001", "location": "Tianjin", "campuses": ["Weijin", "Beiyang/Yuan", "Binhai"], "link": "https://en.tju.edu.cn/", "featured": true, "featuredText": "257"},
@@ -23,7 +22,7 @@
   { "name": "Nankai University", "image": "http://tiny.cc/n1xr001", "location": "Tianjin", "campuses": ["Balitai", "Jinnan", "TEDA"], "link": "https://en.nankai.edu.cn/", "featured": true, "featuredText": "355"},
   { "name": "University of Chinese Academy of Sciences (UCAS)", "image": "http://tiny.cc/72xr001", "location": "Beijing", "campuses": ["Yuquanlu", "Zhongguancun", "Yanshihu", "Olympic Village"], "link": "https://english.ucas.ac.cn/", "featured": true, "featuredText": "362"},
   { "name": "Shenzhen University", "image": "http://tiny.cc/3utr001", "location": "Shenzhen", "campuses": ["Yuehai", "Lihu"], "link": "https://china.starshipeducation.com/p/shenzhen-university-szu.html", "featured": true, "featuredText": "452"},
-  
+
   { "name": "Daqing Normal University", "image": "http://tiny.cc/SS-Daqing", "location": "Heilongjiang", "campuses": ["Daqing", "Fangxiao"], "link": "https://www.dqsy.net/", "featured": false, "featuredText": ""},
   { "name": "Liaoning University (LNU)", "image": "http://tiny.cc/SS-Liaoning1", "location": "Shenyang", "campuses": ["Chongshan", "Puhe / Daoyi", "Wusheng"], "link": "https://enweb.lnu.edu.cn/", "featured": false, "featuredText": ""},
   { "name": "Wuhan Sports University", "image": "http://tiny.cc/SS-WuhanSports", "location": "Hubei", "campuses": ["Donghu", "Canglong", "Baoxie", "Wudang"], "link": "https://en.whsu.edu.cn/", "featured": false, "featuredText": ""},
